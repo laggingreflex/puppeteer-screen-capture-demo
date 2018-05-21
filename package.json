@@ -1,0 +1,9 @@
+{
+  "name": "puppeteer-screen-capture-demo",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "data-uri-to-buffer": "^2.0.0",
+    "puppeteer": "^1.4.0"
+  }
+}
